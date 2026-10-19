@@ -1,0 +1,602 @@
+[
+  {
+    "id": "human-01",
+    "name": "Sunny Glow",
+    "category": "Human",
+    "src": "/assets/faces/human-01.svg"
+  },
+  {
+    "id": "human-02",
+    "name": "River Glow",
+    "category": "Human",
+    "src": "/assets/faces/human-02.svg"
+  },
+  {
+    "id": "human-03",
+    "name": "Nova Glow",
+    "category": "Human",
+    "src": "/assets/faces/human-03.svg"
+  },
+  {
+    "id": "human-04",
+    "name": "Ember Glow",
+    "category": "Human",
+    "src": "/assets/faces/human-04.svg"
+  },
+  {
+    "id": "human-05",
+    "name": "Sky Glow",
+    "category": "Human",
+    "src": "/assets/faces/human-05.svg"
+  },
+  {
+    "id": "human-06",
+    "name": "Clover Dream",
+    "category": "Human",
+    "src": "/assets/faces/human-06.svg"
+  },
+  {
+    "id": "human-07",
+    "name": "Luna Dream",
+    "category": "Human",
+    "src": "/assets/faces/human-07.svg"
+  },
+  {
+    "id": "human-08",
+    "name": "Echo Dream",
+    "category": "Human",
+    "src": "/assets/faces/human-08.svg"
+  },
+  {
+    "id": "human-09",
+    "name": "Sage Dream",
+    "category": "Human",
+    "src": "/assets/faces/human-09.svg"
+  },
+  {
+    "id": "human-10",
+    "name": "Indigo Dream",
+    "category": "Human",
+    "src": "/assets/faces/human-10.svg"
+  },
+  {
+    "id": "human-11",
+    "name": "Atlas Spark",
+    "category": "Human",
+    "src": "/assets/faces/human-11.svg"
+  },
+  {
+    "id": "human-12",
+    "name": "Pixel Spark",
+    "category": "Human",
+    "src": "/assets/faces/human-12.svg"
+  },
+  {
+    "id": "human-13",
+    "name": "Coco Spark",
+    "category": "Human",
+    "src": "/assets/faces/human-13.svg"
+  },
+  {
+    "id": "human-14",
+    "name": "Maple Spark",
+    "category": "Human",
+    "src": "/assets/faces/human-14.svg"
+  },
+  {
+    "id": "human-15",
+    "name": "Robin Spark",
+    "category": "Human",
+    "src": "/assets/faces/human-15.svg"
+  },
+  {
+    "id": "human-16",
+    "name": "Aster Wave",
+    "category": "Human",
+    "src": "/assets/faces/human-16.svg"
+  },
+  {
+    "id": "human-17",
+    "name": "Mango Wave",
+    "category": "Human",
+    "src": "/assets/faces/human-17.svg"
+  },
+  {
+    "id": "human-18",
+    "name": "Breeze Wave",
+    "category": "Human",
+    "src": "/assets/faces/human-18.svg"
+  },
+  {
+    "id": "human-19",
+    "name": "Pepper Wave",
+    "category": "Human",
+    "src": "/assets/faces/human-19.svg"
+  },
+  {
+    "id": "human-20",
+    "name": "Poppy Wave",
+    "category": "Human",
+    "src": "/assets/faces/human-20.svg"
+  },
+  {
+    "id": "human-21",
+    "name": "Reed Bloom",
+    "category": "Human",
+    "src": "/assets/faces/human-21.svg"
+  },
+  {
+    "id": "human-22",
+    "name": "Coral Bloom",
+    "category": "Human",
+    "src": "/assets/faces/human-22.svg"
+  },
+  {
+    "id": "human-23",
+    "name": "Cedar Bloom",
+    "category": "Human",
+    "src": "/assets/faces/human-23.svg"
+  },
+  {
+    "id": "human-24",
+    "name": "Dawn Bloom",
+    "category": "Human",
+    "src": "/assets/faces/human-24.svg"
+  },
+  {
+    "id": "human-25",
+    "name": "Juno Bloom",
+    "category": "Human",
+    "src": "/assets/faces/human-25.svg"
+  },
+  {
+    "id": "cartoon-01",
+    "name": "Sunny Glow",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-01.svg"
+  },
+  {
+    "id": "cartoon-02",
+    "name": "River Glow",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-02.svg"
+  },
+  {
+    "id": "cartoon-03",
+    "name": "Nova Glow",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-03.svg"
+  },
+  {
+    "id": "cartoon-04",
+    "name": "Ember Glow",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-04.svg"
+  },
+  {
+    "id": "cartoon-05",
+    "name": "Sky Glow",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-05.svg"
+  },
+  {
+    "id": "cartoon-06",
+    "name": "Clover Dream",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-06.svg"
+  },
+  {
+    "id": "cartoon-07",
+    "name": "Luna Dream",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-07.svg"
+  },
+  {
+    "id": "cartoon-08",
+    "name": "Echo Dream",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-08.svg"
+  },
+  {
+    "id": "cartoon-09",
+    "name": "Sage Dream",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-09.svg"
+  },
+  {
+    "id": "cartoon-10",
+    "name": "Indigo Dream",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-10.svg"
+  },
+  {
+    "id": "cartoon-11",
+    "name": "Atlas Spark",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-11.svg"
+  },
+  {
+    "id": "cartoon-12",
+    "name": "Pixel Spark",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-12.svg"
+  },
+  {
+    "id": "cartoon-13",
+    "name": "Coco Spark",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-13.svg"
+  },
+  {
+    "id": "cartoon-14",
+    "name": "Maple Spark",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-14.svg"
+  },
+  {
+    "id": "cartoon-15",
+    "name": "Robin Spark",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-15.svg"
+  },
+  {
+    "id": "cartoon-16",
+    "name": "Aster Wave",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-16.svg"
+  },
+  {
+    "id": "cartoon-17",
+    "name": "Mango Wave",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-17.svg"
+  },
+  {
+    "id": "cartoon-18",
+    "name": "Breeze Wave",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-18.svg"
+  },
+  {
+    "id": "cartoon-19",
+    "name": "Pepper Wave",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-19.svg"
+  },
+  {
+    "id": "cartoon-20",
+    "name": "Poppy Wave",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-20.svg"
+  },
+  {
+    "id": "cartoon-21",
+    "name": "Reed Bloom",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-21.svg"
+  },
+  {
+    "id": "cartoon-22",
+    "name": "Coral Bloom",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-22.svg"
+  },
+  {
+    "id": "cartoon-23",
+    "name": "Cedar Bloom",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-23.svg"
+  },
+  {
+    "id": "cartoon-24",
+    "name": "Dawn Bloom",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-24.svg"
+  },
+  {
+    "id": "cartoon-25",
+    "name": "Juno Bloom",
+    "category": "Cartoon",
+    "src": "/assets/faces/cartoon-25.svg"
+  },
+  {
+    "id": "anime-01",
+    "name": "Sunny Glow",
+    "category": "Anime",
+    "src": "/assets/faces/anime-01.svg"
+  },
+  {
+    "id": "anime-02",
+    "name": "River Glow",
+    "category": "Anime",
+    "src": "/assets/faces/anime-02.svg"
+  },
+  {
+    "id": "anime-03",
+    "name": "Nova Glow",
+    "category": "Anime",
+    "src": "/assets/faces/anime-03.svg"
+  },
+  {
+    "id": "anime-04",
+    "name": "Ember Glow",
+    "category": "Anime",
+    "src": "/assets/faces/anime-04.svg"
+  },
+  {
+    "id": "anime-05",
+    "name": "Sky Glow",
+    "category": "Anime",
+    "src": "/assets/faces/anime-05.svg"
+  },
+  {
+    "id": "anime-06",
+    "name": "Clover Dream",
+    "category": "Anime",
+    "src": "/assets/faces/anime-06.svg"
+  },
+  {
+    "id": "anime-07",
+    "name": "Luna Dream",
+    "category": "Anime",
+    "src": "/assets/faces/anime-07.svg"
+  },
+  {
+    "id": "anime-08",
+    "name": "Echo Dream",
+    "category": "Anime",
+    "src": "/assets/faces/anime-08.svg"
+  },
+  {
+    "id": "anime-09",
+    "name": "Sage Dream",
+    "category": "Anime",
+    "src": "/assets/faces/anime-09.svg"
+  },
+  {
+    "id": "anime-10",
+    "name": "Indigo Dream",
+    "category": "Anime",
+    "src": "/assets/faces/anime-10.svg"
+  },
+  {
+    "id": "anime-11",
+    "name": "Atlas Spark",
+    "category": "Anime",
+    "src": "/assets/faces/anime-11.svg"
+  },
+  {
+    "id": "anime-12",
+    "name": "Pixel Spark",
+    "category": "Anime",
+    "src": "/assets/faces/anime-12.svg"
+  },
+  {
+    "id": "anime-13",
+    "name": "Coco Spark",
+    "category": "Anime",
+    "src": "/assets/faces/anime-13.svg"
+  },
+  {
+    "id": "anime-14",
+    "name": "Maple Spark",
+    "category": "Anime",
+    "src": "/assets/faces/anime-14.svg"
+  },
+  {
+    "id": "anime-15",
+    "name": "Robin Spark",
+    "category": "Anime",
+    "src": "/assets/faces/anime-15.svg"
+  },
+  {
+    "id": "anime-16",
+    "name": "Aster Wave",
+    "category": "Anime",
+    "src": "/assets/faces/anime-16.svg"
+  },
+  {
+    "id": "anime-17",
+    "name": "Mango Wave",
+    "category": "Anime",
+    "src": "/assets/faces/anime-17.svg"
+  },
+  {
+    "id": "anime-18",
+    "name": "Breeze Wave",
+    "category": "Anime",
+    "src": "/assets/faces/anime-18.svg"
+  },
+  {
+    "id": "anime-19",
+    "name": "Pepper Wave",
+    "category": "Anime",
+    "src": "/assets/faces/anime-19.svg"
+  },
+  {
+    "id": "anime-20",
+    "name": "Poppy Wave",
+    "category": "Anime",
+    "src": "/assets/faces/anime-20.svg"
+  },
+  {
+    "id": "anime-21",
+    "name": "Reed Bloom",
+    "category": "Anime",
+    "src": "/assets/faces/anime-21.svg"
+  },
+  {
+    "id": "anime-22",
+    "name": "Coral Bloom",
+    "category": "Anime",
+    "src": "/assets/faces/anime-22.svg"
+  },
+  {
+    "id": "anime-23",
+    "name": "Cedar Bloom",
+    "category": "Anime",
+    "src": "/assets/faces/anime-23.svg"
+  },
+  {
+    "id": "anime-24",
+    "name": "Dawn Bloom",
+    "category": "Anime",
+    "src": "/assets/faces/anime-24.svg"
+  },
+  {
+    "id": "anime-25",
+    "name": "Juno Bloom",
+    "category": "Anime",
+    "src": "/assets/faces/anime-25.svg"
+  },
+  {
+    "id": "animals-01",
+    "name": "Fox",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-01.svg"
+  },
+  {
+    "id": "animals-02",
+    "name": "Bear",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-02.svg"
+  },
+  {
+    "id": "animals-03",
+    "name": "Cat",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-03.svg"
+  },
+  {
+    "id": "animals-04",
+    "name": "Panda",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-04.svg"
+  },
+  {
+    "id": "animals-05",
+    "name": "Tiger",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-05.svg"
+  },
+  {
+    "id": "animals-06",
+    "name": "Koala",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-06.svg"
+  },
+  {
+    "id": "animals-07",
+    "name": "Bunny",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-07.svg"
+  },
+  {
+    "id": "animals-08",
+    "name": "Owl",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-08.svg"
+  },
+  {
+    "id": "animals-09",
+    "name": "Wolf",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-09.svg"
+  },
+  {
+    "id": "animals-10",
+    "name": "Lion",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-10.svg"
+  },
+  {
+    "id": "animals-11",
+    "name": "Frog",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-11.svg"
+  },
+  {
+    "id": "animals-12",
+    "name": "Penguin",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-12.svg"
+  },
+  {
+    "id": "animals-13",
+    "name": "Raccoon",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-13.svg"
+  },
+  {
+    "id": "animals-14",
+    "name": "Dog",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-14.svg"
+  },
+  {
+    "id": "animals-15",
+    "name": "Deer",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-15.svg"
+  },
+  {
+    "id": "animals-16",
+    "name": "Mouse",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-16.svg"
+  },
+  {
+    "id": "animals-17",
+    "name": "Otter",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-17.svg"
+  },
+  {
+    "id": "animals-18",
+    "name": "Pig",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-18.svg"
+  },
+  {
+    "id": "animals-19",
+    "name": "Bat",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-19.svg"
+  },
+  {
+    "id": "animals-20",
+    "name": "Monkey",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-20.svg"
+  },
+  {
+    "id": "animals-21",
+    "name": "Robot",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-21.svg"
+  },
+  {
+    "id": "animals-22",
+    "name": "Alien",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-22.svg"
+  },
+  {
+    "id": "animals-23",
+    "name": "Cloud",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-23.svg"
+  },
+  {
+    "id": "animals-24",
+    "name": "Star",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-24.svg"
+  },
+  {
+    "id": "animals-25",
+    "name": "Ghost",
+    "category": "Animals/Fun",
+    "src": "/assets/faces/animals-25.svg"
+  }
+]

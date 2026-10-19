@@ -1,0 +1,29 @@
+[
+  {
+    "id": "bn-loop-1",
+    "name": "Quiet Circuit",
+    "src": "/assets/music/bn-loop-1.wav",
+    "duration": 16,
+    "license": "CC0-1.0",
+    "attribution": "Original synthesized composition created for BNedits. Dedicated to the public domain under CC0 1.0; no attribution required.",
+    "bpm": 90
+  },
+  {
+    "id": "bn-loop-2",
+    "name": "Neon Steps",
+    "src": "/assets/music/bn-loop-2.wav",
+    "duration": 16,
+    "license": "CC0-1.0",
+    "attribution": "Original synthesized composition created for BNedits. Dedicated to the public domain under CC0 1.0; no attribution required.",
+    "bpm": 120
+  },
+  {
+    "id": "bn-loop-3",
+    "name": "Soft Horizon",
+    "src": "/assets/music/bn-loop-3.wav",
+    "duration": 16,
+    "license": "CC0-1.0",
+    "attribution": "Original synthesized composition created for BNedits. Dedicated to the public domain under CC0 1.0; no attribution required.",
+    "bpm": 75
+  }
+]
